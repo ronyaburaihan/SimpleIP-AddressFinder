@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FindMyIPAddress</string>
+    <string name="show_my_ip_address">Show my IP Address</string>
+    <string name="ip_address">IP Address</string>
+    <string name="division_name">Division Name</string>
+    <string name="country_name">Country Name</string>
+    <string name="country_iso">Country ISO</string>
+    <string name="time_zone">Time Zone</string>
+    <string name="find_my_ip_address">Find my IP Address</string>
+    <string name="isp_name">ISP Name</string>
+    <string name="zip_code">Zip Code</string>
+</resources>
